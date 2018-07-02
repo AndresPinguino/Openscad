@@ -1,0 +1,1 @@
+import("/home/andres/Openscad/pololuwheel/Poleel80x10mm.stl", convexity=3);

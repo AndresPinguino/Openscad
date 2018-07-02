@@ -1,0 +1,4 @@
+Sources for Mini-Sumo Tire Mold/Casting
+
+Parametric two-part mold generator for OpenSCAD (https://www.thingiverse.com/thing:31581)
+SimpleSumo- Educational Fighting Robots! (https://www.thingiverse.com/thing:2574286)
