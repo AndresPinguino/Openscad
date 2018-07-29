@@ -13,11 +13,11 @@ diametro_eje=6;
 
 // Prisionero
 diametro_prisionero=3.25;
-prisionero_z=-7;
+prisionero_z=-5;
 
 // Tuerca
-tuerca_x=5;
-tuerca_y=3;
+tuerca_x=9.5;
+tuerca_y=4;
 pos_tuerca=(radio_interno_llanta-diametro_eje/2)/2+diametro_eje/2;
 
 module rueda(){
