@@ -26,8 +26,8 @@ difference() {
     color("red")
     write(puesto,t=altura+5,h=radio-4,font = "BlackRose.dxf", center=true);
     //Numero del puesto 1,2 ó 3
-    color([0,1,1]) 
-    writecircle(text="poli-702", where=[0,0,altura/2+1.6], h=4,radius=-(radio-17), font = tipo_letra, space=1.3);
+    //color([0,1,1]) 
+    //writecircle(text="poli-702", where=[0,0,altura/2+1.6], //h=4,radius=-(radio-17), font = tipo_letra, space=1.3);
 }
 
 
